@@ -1,0 +1,48 @@
+Data Engineer and Machine Learning Developer Senior ConsultantCompetitive SalaryBratislava 
+
+Dell Data Science Factory is looking for skilled data engineer visionary expert to join the AI Journey. 
+
+We are building A.I. as service bringing analytics capabilities to point of action for DELL Technologies . 
+We achieve this leveraging Machine learning algorithms and Business Process Automation solution adopting Pivotal Principles. 
+We have created Full value chain from Data engineering till API dev that can scale across DELL Technologies . 
+
+Dell Digital Analytics & Data Science | Big data Engineering and Solution Development |Data Intelligence Engineering 
+
+Responsibilities
+You will be responsible for providing the required data engineering capabilities that will enable ingestion and sustaining of these new datasets
+Build data processes supporting data transformation, data structures, metadata and dependency across modern Developer tools used for Planning, CI/CD and Could Foundry
+Collect and transform unstructured data into actionable insight (ETL, Machine learning , stat tool, math)
+Contribute to improve Process and reduce overall issues via algorithmic solution (Python)
+Provide Deep expertise on data sources, required transformations, quality, consistency, velocity, access
+Establish relationships with key business partners/Points of Contact to accelerate issues fix
+Develop and Maintain self-service capabilities for Business KPI drill-down needs (OLAP, TOLAP , Python)
+Essential Requirements:
+Education (Bachelors degree or higher) in Computer Science, Mathematics, or a related technical field, or equivalent practical experience.
+12+ years experience in Data or BI engineering dealing with large complex data scenarios.
+Database development (MS SQL/Teradata,OLAP, ETL) is a must
+Experience with data processing software (such as Hadoop, Spark, Pig, Hive)
+Experience in software development in one or more languages, such as Python, Java, Go, C++ and/or similar.
+Proven ability to work with varied data infrastructures including relational databases, column stores, NoSQL databases, and file-based storage solutions
+Expertise in optimizing queries and ETL tasks involving large amounts of data
+Ability to work in Global team, with remote leaders and peers
+Being self-reliant and capable of both independent work and as member of a team
+Desirable qualities:
+Quickly adapt to new development environments and changing business requirements
+Enjoy learning new systems and Tools
+Create reliable/maintainable code, find creative and scalable solutions to difficult problems
+The ability to communicate clearly and concisely (English) both writing and orally is a key competency as is demonstrable skill as a self-starter.
+Thrive in ambiguity & work with global team across various time-zones
+Salary starting from: 4 800 EUR gross monthly 
+
+Benefits 
+
+Our people are the most critical component of our long-term success and their health and wellbeing are our priority. You will enjoy a comprehensive, locally competitive benefits package.
+Relocation Support: One time financial contribution
+Health and Insurance Support
+Meal vouchers fully covered
+Flexible working hours home office
+Volunteering & Community involvement
+Gym in the house & sport activities
+Canteen & Cafeterias in the house
+Language courses
+Product Purchase Plan & Practical Discounts

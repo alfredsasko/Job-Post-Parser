@@ -1,0 +1,55 @@
+Job Description 
+Data Scientist Advanced Analytics 
+
+Our consultants in the Data science Advance Analytics work in various fields and industries (healthcare, automotive, finance / banking, insurance / re-insurance, public, retail, etc.) with the latest software and leading-edge development tools which give them the opportunity to enhance their skills and expertise in a dynamic multinational environment. They are applying analytical methods and algorithms in real-world use cases where possible, to drive enhancements and build data products that streamline the process from data collection to insight generation. 
+
+The position is based in Bratislava, Banska Bystrica or Kosice. 
+
+What would be your responsibilities?
+Convert business problems into an analytics solution using their consulting skills
+Extract, transform, and combine all incoming data with the goal of discovering a hidden insight
+Explore data, create visualization and reports on data
+Formulate hypotheses
+Test conclusions to determine appropriate solutions methods
+Build statistical models
+Determines how to apply and deploy predictive models with respect of the specific business needs
+What do you need for your success?
+A solid foundation typically in statistics, modeling, operations research, computer science and applications, and math.
+Analytical & conceptual skills to understand key business needs and design tailored solutions to solve specific business problems
+Proficiency in relational databases and SQL
+Experience with a statistical package such as R, MATLAB, SPSS (Modeler, Statistics), SAS and Stata etc.
+Experience in at least one scripting or programming language (Python in high demand, Perl, Java etc.)
+Experience with large data sets and distributed computing (Hive/Hadoop) a plus
+Experience doing quantitative analysis (classification, regression, time series analysis, tree-based methods, ensemble methods, optimization (linear programming etc.))
+Experience with Deep learning algorithm is plus
+Good understanding of applied statistical analysis
+Other requirements:
+MS in Computer Science, Math, Physics, Engineering, Computational linguistics, Statistics or another technical field. Advanced degrees are preferred
+2+ years of experience in relevant areas of advanced analysis. Industry experience in specific sector a plus
+Languages: fluent in English
+What can you expect of us?
+Salary starting from 1700 EUR gross, depending on relevant experience and language proficiency
+Annual performance bonus payment
+Performance evaluation on regular basis
+Subsidized meal-tickets
+Flexible working time and home office
+Three additional vacation days
+Up to three self-recovery days
+100% sick leave compensation
+Life insurance and supplementary pension savings program
+Private medical sanatorium
+Long term career development and possibility of internal rotation
+Classroom based trainings and 5000 e-learning courses both internal and external
+Recommend-a-Friend get a bonus in the employee referral program
+MultiSport card
+Special IBM discounts
+Required Technical and Professional Expertise 
+
+. 
+
+Preferred Tech and Prof Experience 
+
+. 
+
+EO Statement 
+IBM is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. IBM is also committed to compliance with all fair employment practices regarding citizenship and immigration status. 

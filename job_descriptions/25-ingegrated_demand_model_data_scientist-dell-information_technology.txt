@@ -1,0 +1,50 @@
+Integrated data model data scientistCompetitive salaryBratislava 
+
+Dell has been active in Slovakia since January 2003. We started as a centre of sales and customer support and transfer into a business centre supporting the whole EMEA region and the main financial hub of Dell, globally. We offer a broad palette of positions in IT, finance, sales, marketing, data science, technical support and business process support. 
+
+We are very honored and humbled to receive 3rd place in an annual 'best employer' survey conducted by Profesia amongst Shared Service Centers in Slovakia for the year 2018. Join our team and be part of life at Dell. 
+
+Dell is seeking experienced analytics professional to lead the creation of the Integrated Demand Model (IDM). This forecast model is used to drive key business planning decisions for the Consumer and Small Business space for European countries. In this position, one must ingest multiple leading indicator variables to generate a business forecast that will accurately predict multiple targets for the business, including financial goal attainment. This winning candidate will join a collaborative team that must work cross functionally to deliver model updates and outputs on a quarterly basis. 
+
+The candidate will be leading to build and refresh statistical models, verifying the accuracy of them and engaged in day to day operations on business processes as well as continuing to run. Also the candidate will be producing ad-hoc analysis using scientific methodology to answer key business questions such as campaign efficiency measurement and investigation of abnormal sales trend to identify root causes. 
+
+Key responsibilities
+Manage the process and quality of data collected for model build and refresh
+Lead forecasting model build for product groups, product sub-groups and profit centers using Regression Modeling on quarterly basis.
+Perform time Series, ARIMA, machine learning algorithm and etc to build and continue to enhance the forecast model.
+Update the code the model to minimize the variance for all the forecast models to help business understand the root causes behind the variation. Use the learning to improve the overall forecasting process.
+Proactively anticipate and prevent problems. Devise and facilitate business buy-in, make recommendations and guide implementation of corrective and/or preventive actions for complex business issues that cross organizational boundaries and are unclear in nature.
+Serve as a head data scientist for guiding modelers and serving as a cross-functional analytics consultant to business stakeholders and team members.
+Preparation of all the supporting documents and reports.
+Essential Skills:
+Academic degree in Statistics, Applied Mathematics, Industrial Engineering, Operations Research or equivalent practical experience.
+Experience in building model using statistic techniques such as Time Series, Statistical Modeling, Predictive Analytics, Forecasting, Data Extraction, Data Processing, Process Design, Variance Analysis
++6 years of hands on experience in building statistical model and +2 years of business experience in Marketing, Sales operation, or Sales
+Must have excellent knowledge and programing capability using R, SAS, and Python for time series analysis.
+Automation skills using Python or VB Scripting will be an added advantage.
+Great verbal and written communication skills
+Great MS Office skill
+Preferred Skills:
+Proficient in standard data engineering practices like ETL using packages such as SQL Server or Greenplum
+Knowledge of BI modules such as SSRS (Reporting Services), SSIS (Integration Services) and SSAS (Analysis Services) or similar capabilities using other tools
+Essential Skills: Advanced SQL Skills, Advanced knowledge of Excel, Advanced user of Access DB, Knowledge of any BI and Analytics toolsets like BOBJ/Pentaho/SAS and Visual reporting tools like Tableau/Alteryx.
+Experience with tools used for data intelligence and analytics
+Experience in data intelligence & analytics strategies and best practices.
+Knowledge in principles of dashboard design.
+Key Competencies:
+Drive for results and on-time delivery of key outputs
+Seeks assistance when needed
+Demonstrates self-initiative.
+Solid written & verbal communication skills.
+Demonstrated analytical and problem solving skills.
+Ability to learn and apply new tools and applications.
+Keen business acumen in a highly transactional business model
+Experience in storytelling with data.
+Adherence to data governance standards of the company. Adherence to publication approval standards for dashboard release reviews
+Salary starting from: 2800 EUR gross monthly 
+
+Benefits 
+
+Our people are the most critical component of our long-term success and their health and wellbeing are our priority. You will enjoy a comprehensive, locally competitive benefits package. 
+
+Dell is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex (including pregnancy), sexual orientation, gender identity and/or expression, national origin, protected veteran status, disability, genetics, or citizenship status (when otherwise legally authorized to work) and will not be discriminated against on the basis of such characteristics or any other status protected by the laws or regulations in the locations where we operate. Dell encourages applicants of all ages.

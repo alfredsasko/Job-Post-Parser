@@ -1,0 +1,53 @@
+Job Description
+Data Scientist Cognitive Computing 
+
+Our consultants in the Data science Cognitive Computing team work in various fields (such as healthcare, automotive, economic, banking, insurance, etc.) with the latest software and leading-edge development tools which give them the opportunity to enhance their skills and expertise in a dynamic multinational environment. 
+They have mainly:
+Deep Technical Expertise for Watson Explorer & Content Analytics and Watson based platforms
+Understanding of Watson Developer Cloud and Cognitive services, Watson API's
+Understanding of Cognitive & AI based platforms
+What would be your responsibilities?
+Convert business problems into cognitive solution using their consulting skills
+Extract, transform, and combine structured and unstructured data to get the required format
+Create solutions using Watson services or with combination of open source languages
+Build and deploy models or solution with respect of the specific business needs
+What do you need for your success?
+Profound understanding of Watson / Cognitive computing
+Practical project experience of cognitive computing ideally in particular services industry
+Expertise of leading analytics products, solutions and technologies
+Deep knowledge and hands on experience (including implementation of recent/out-of-product Research results) in foundational aspects, more specifically:
+Machine Learning, Natural Language Processing, Search, Indexing, Information Retrieval
+Experience with Deep learning algorithm (ANN, CNN, R-NN, )
+Expert understanding of Watson WEX (foundational and analytical componentes)
+Understanding of IBM Cloud, Watson Cognitive Services / Watson developer cloud
+Experience with large data sets and distributed computing (Hive/Hadoop) a plus
+Experience with Text processing, Image recognition, Speech recognition in Python is plus
+Experience with TensorFlow, Keras, Apache SystemML, or PyTorch is plus
+Experience with Apache Spark plus
+Ability to work independently
+What can you expect of us?
+Salary starting from 1250 EUR gross, depending on relevant experience and language proficiency
+Annual performance bonus payment
+Performance evaluation on regular basis
+Subsidized meal-tickets
+Flexible working time and home office
+Three additional vacation days
+Up to three self-recovery days
+100% sick leave compensation
+Life insurance and supplementary pension savings program
+Private medical sanatorium
+Long term career development and possibility of internal rotation
+Classroom based trainings and 5000 e-learning courses both internal and external
+Recommend-a-Friend get a bonus in the employee referral program
+MultiSport card
+Special IBM discounts
+Required Technical and Professional Expertise 
+
+. 
+
+Preferred Tech and Prof Experience 
+
+. 
+
+EO Statement 
+IBM is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. IBM is also committed to compliance with all fair employment practices regarding citizenship and immigration status. 

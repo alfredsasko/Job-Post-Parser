@@ -1,0 +1,42 @@
+Data Scientist Sr. AdvisorCompetitive SalaryBratislava
+
+Dell has been active in Slovakia since January 2003. We started as a centre of sales and customer support and transfer into a business centre supporting the whole EMEA region and the main financial hub of Dell, globally. We offer a broad palette of positions in IT, finance, sales, marketing, data science, technical support and business process support. 
+
+We are very honored and humbled to receive 3rd place in an annual 'best employer' survey conducted by Profesia amongst Shared Service Centers in Slovakia for the year 2018. Join our team and be part of life at Dell. 
+
+We are transforming Marketing at Dell. Come join the best and the brightest to bring Personalization at Scale vision to life. Leveraging Dell Technology intellectual property, we are building one of the worlds largest customer data lakes bringing billions customer contacts and data together to drive our #digitaltransformation. If you love changing the status quo, and empowering the curious to engineer marketing excellence - we invite the curious to join our Modeling & Customer Intelligence team. #GoBig #GoFast. 
+
+Key Responsibilities
+Use machine learning and statistical techniques to create new, scalable solutions for business problems.
+Translate analytics / statistical output to business speak and enable adoption of analytics by the customer.
+Analyze and extract relevant information from business data to help automate and optimize key processes
+Design, develop and evaluate highly innovative models for predictive learning
+Establish scalable, efficient, automated processes for large scale feature engineering, model development, model validation and production
+Research and implement novel machine learning and statistical approaches
+Lead discussions to frame problem statements, develop hypothesis, design data frames / consumption views, define success KPIs & test approach, and explain model results to business stakeholders.
+Essential Requirements:
+Education (Bachelors degree or higher) in Computer Science, Mathematics, or a related technical field, or equivalent practical experience.
+6+ years of industry experience in predictive modeling and analysis, preferably customer journey and targeting to drive business outcomes.
+Strong Problem-solving ability.
+Proven experience in feature engineering and apply machine learning algorithms to large datasets
+Experience using Python, R, Scala and/or Java
+Experience with Apache Spark in particular MlLib (incl. PySpark and/or SparklyR)
+Experience with Pig, Hive
+Experience using machine learning libraries and packages, such as NumPy, scikit-learn, caret, dplyr, mlLib, FastAI
+Experience with Pytorchor Tensor flow are big plus.
+Desirable requirements: 
+
+Equally important to these specific skills are a candidate's ability to:
+Multitask
+Quickly adapt to new development environments and changing business requirements
+Learn new systems
+Create reliable/maintainable code, and find creative and scalable solutions to difficult problems
+The ability to communicate clearly and concisely (English) both writing and orally is a key competency as is demonstrable skill as a self-starter.
+Thrive in ambiguity & work with global team across various time-zones.
+Salary starting from: 2800 EUR gross monthly 
+
+Benefits 
+
+Our people are the most critical component of our long-term success and their health and wellbeing are our priority. You will enjoy a comprehensive, locally competitive benefits package. 
+
+Dell is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex (including pregnancy), sexual orientation, gender identity and/or expression, national origin, protected veteran status, disability, genetics, or citizenship status (when otherwise legally authorized to work) and will not be discriminated against on the basis of such characteristics or any other status protected by the laws or regulations in the locations where we operate. Dell encourages applicants of all ages.

@@ -1,0 +1,27 @@
+About Swiss Re 
+
+The Swiss Re Group is one of the world’s leading providers of reinsurance, insurance and other forms of insurance-based risk transfer, working to make the world more resilient. It anticipates and manages risk – from natural catastrophes to climate change, from ageing populations to cybercrime. The aim of the Swiss Re Group is to enable society to thrive and progress, creating new opportunities and solutions for its clients. Headquartered in Zurich, Switzerland, where it was founded in 1863, the Swiss Re Group operates through a network of around 80 offices globally. It is organised into three Business Units, each with a distinct strategy and set of objectives contributing to the Group’s overall mission.
+
+About the Role 
+
+As Senior IT Business Management Data Analyst you will be responsible to define, maintain, control and run a lean reporting framework for Swiss Re IT providing all relevant parties with report so they are able to steer and lead their respective functions. 
+
+The opportunity
+Define, maintain and run a reporting framework for Swiss Re IT and find opportunities for improvement in services, processes and resources.
+Support information needs in regards of measurement and reporting of all relevant partners.
+Define efficient reporting procedures, methods and systems continually seek to improve the metrics and reports, e.g. in aspects of accuracy, automation etc.
+Analyze collected data, relations, trends and translate collected data into actionable information.
+Implement, maintain and lead IT consumption measurements and take remedial action with partners based on your analytics.
+Present key findings and achievements/ results to IT executives on a regular/need basis and review the results with partners on a periodic basis.
+Ensure reports are continually published/ presented in defined agreed time intervals adhering to departmental standards and policies, and cope effectively with the complexity and volume of information needs.
+Handle customers feedback of IT and ensure appropriate actioning by the respective service teams.
+Propose and define CSI in agreement with partners and seek implementation of service improvements, track progress and reports to management and partners.
+As this role is a global role you will be working with various partners around the globe as part of international team mainly based in Bratislava and Zurich and Budapest.
+About you
+
+As an expert (5+ years) reporting/data analyst you thrive deep within developing situations with an intense curiosity to make discoveries in the world of big data. You love analyzing information from different varieties, volumes, velocity, veracity to identify rich data sources, connecting them and turning unstructured data into structured data. You are creative by nature and enjoy to communicate in a language understandable to all partners. You have excellent analytical and presentation skills, with an ability to see the big picture and enjoy working within a team. You have a deep understanding and knowledge of quantitative methods (statistics) enjoy working in a multicultural and diverse environment. Proven credibility in building trust and maintaining relationships with partners is expected. You have got strong knowledge in SQL, Excel, leading BI tool (such as Power-BI, Tableau) and good knowledge of Python and JavaScript with excellent command of English. 
+
+Minimum base salary for this job from 1700 EUR gross/month/full time. Our offer to you may be higher based on your skills and experience and will include additional rewards and benefits.* 
+We provide feedback to all candidates via email. If you have not heard back from us, please check your spam folder. 
+
+*We are required by law to disclose basic wage component (minimum salary) for the advertised positions. We carefully consider your professional competencies, qualifications and experience in our compensation package and/or when offering you other positions. Our compensation philosophy is to pay fairly, also considering market situation and the value employees may bring to Swiss Re.

@@ -1,0 +1,37 @@
+About Swiss Re 
+
+The Swiss Re Group is one of the world’s leading providers of reinsurance, insurance and other forms of insurance-based risk transfer, working to make the world more resilient. It anticipates and manages risk – from natural catastrophes to climate change, from ageing populations to cybercrime. The aim of the Swiss Re Group is to enable society to thrive and progress, creating new opportunities and solutions for its clients. Headquartered in Zurich, Switzerland, where it was founded in 1863, the Swiss Re Group operates through a network of around 80 offices globally. It is organised into three Business Units, each with a distinct strategy and set of objectives contributing to the Group’s overall mission.
+
+About the Team 
+
+The Digital and Smart Analytics Service Unit (DSA) is part of the Group Digital & Information Services operating on a global basis. DSA implements Swiss Re's Technology Strategy and supports its business functions in generating insights and creating data driven products & solutions. 
+
+We are seeking a motivated candidate in Bratislava with passion for technology to join our highly skilled global team. You will work with colleagues from various countries across different locations (Zurich, Armonk NY, Zurich, Bangalore, Singapore, Beijing and Hong Kong) who contribute in developing analytics services and solutions in tight collaboration with internal business experts and clients. 
+
+About the Role
+Involvement in machine learning projects:
+Data preparation
+Development of machine learning solutions
+Statistical modelling
+Support the team that implements the in-production solution in the hand-over process
+Presentation to and communication with our business stakeholders
+Preparation and presentation of technical content to a business audience
+Integration of technical solutions into business contexts
+agile project management and working with cross-functional and/or virtual teams
+About You 
+
+Technical Requirements
+Analytical problem solving skills and ability to assimilate complex information.
+English language skills
+Knowledge of script languages like R and Python (at least one)
+knowledge of statistical modelling (linear models, GLMs, decision trees)
+basic machine learning techniques (random forests, clustering, …)
+Advantageous Additional Skills
+Degree in Computer Science, Applied Mathematics, Statistics or related quantitative field
+Expertise in Artificial Intelligence, Machine Learning, Deep Learning and related technologies
+experience in building and deploying innovative solutions/software development
+Specific knowledge of/experience in the insurance/financial industry
+Actuarial background
+knowledge of Text Mining, Natural Language Processing and related technology platforms and tools
+experience in distributed computing (e.g. Spark)
+experience with geographic modelling or processing of geo-data

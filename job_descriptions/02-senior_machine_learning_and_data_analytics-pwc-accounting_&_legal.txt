@@ -1,0 +1,77 @@
+Line of Service
+
+Advisory
+
+Industry/Sector
+
+Not Applicable
+
+Specialism
+
+Data and Analytics Technologies
+
+Management Level
+
+Senior Associate
+
+Job Description & Summary 
+
+Personality requirements and skills: 
+
+- University degree in Mathematics, Physics, Computer Science or similar 
+
+- Solid understanding of Probability Theory/Statistic/Econometrics,experience with Machine learning algorythms or track record in data science (project experience, online competitions) or research (Master or PhD). 
+
+- English language, experience in reading (and writing) scientific articles 
+
+- PC skills (IT tools, programms, level...):at least one programming language on advanced level, Python/R, experience with RESTful and Containers is an advantage, Natural Language Processing expertise, understanding of Microservice architecture is an advantage 
+
+- readiness to travel up to 50% of working time 
+
+- fast learner, solve unstructured problems, ability to pick up new skills every day, credentials from online courses and participation in online competitions is an advantage, published papers in a field would be an advantage 
+
+Job description: 
+
+- Presenting results of research to the client 
+
+-As a machine learning consultant you will work closely with clients to gather the undertstanding of their business goals and create a proper problem statement. Once it is confirmed that solving particular problem helps the client to achieve business goal and it is a case for ML, the work starts. You work with the client to collect information and data needed to create a model, perform the research and iteratively prepare the model. By the time the model is tested you need to learn the client infrastructure and support the roll out the product following client's constraints. Experienced consultants will support you during your work, however, it is expected that soon you learn enough to understand goals, build models, wrap them into Restful API-s, place them into Docker containers and guide clients through the process of implementation. 
+
+Special benefits related to position to highlight: 
+
+-Learn how consulting works, get to know various aspects by participating in multiple projects globally in a short time 
+
+-Opportunity to travel 
+
+-Fast developing team, supervision by ML expert 
+
+-Flexibility in terms of working schedule 
+
+-Fast career growth upon successful performance 
+
+-Challanging tasks and high responsibility 
+
+Salary: from 1800EUR gross 
+
+Zásady ochrany osobných údajov/ Privacy Statement 
+
+Education (if blank, degree and/or field of study not specified)
+
+Degrees/Field of Study required:Degrees/Field of Study preferred:
+
+Certifications (if blank, certifications not specified) 
+
+Desired Languages (If blank, desired languages not specified) 
+
+Travel Requirements
+
+Up to 60%
+
+Available for Work Visa Sponsorship?
+
+No
+
+Government Clearance Required?
+
+No
+
+Job Posting End Date

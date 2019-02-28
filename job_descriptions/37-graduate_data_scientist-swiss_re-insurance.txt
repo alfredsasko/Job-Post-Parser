@@ -1,0 +1,44 @@
+About Swiss Re 
+
+The Swiss Re Group is one of the world’s leading providers of reinsurance, insurance and other forms of insurance-based risk transfer, working to make the world more resilient. It anticipates and manages risk – from natural catastrophes to climate change, from ageing populations to cyber crime. The Swiss Re Group is organised into three Business Units, each with a distinct strategy and set of objectives contributing to the Group’s overall mission.
+
+About the Programme 
+We are looking for graduates with good interpersonal skills, who are eager to learn and broaden their knowledge and expertise. You have a Bachelor, Master or PhD degree with up to 3 years professional experience – we invite you to apply to our graduates@swissre programme 2019. The programme start date is 1st September 2019. 
+The programme offers you the chance to join the dynamic, fast-moving world of a leading risk knowledge organisation. Over an 18-month period, you’ll receive on-and-off-the-job training, including a job rotation that gives you the opportunity to work across various business units. 
+
+About the role 
+We are seeking a motivated talent with a real passion for technology to join our highly skilled global team. You will also work with colleagues from various countries across different locations (Armonk NY, Zurich, Bangalore and Singapore) who contribute in developing analytics services in tight collaboration with business experts and clients. In particular, the role will involve: 
+
+• Generating business insights using data analytics and information visualisation methods to answer business problems in different (Re-) Insurance domains.
+Developing business solutions to support the business into their innovation journey, in alignment with business priorities and key targets.
+Driving product and service improvements to deliver tangible impact. 
+
+Key Tasks
+Initiate, lead and drive analytics projects from inception to completion with minimal mentorship
+Apply analytical methods and algorithms to build data products that streamline the process from data collection to insight generation.
+Foster new data oriented approaches to generate business insight in order to address unanswered business problems in a dedicated way.
+Validate, interpret and present data findings to both an expert and non-expert audience.
+Contribute in an agile team of data scientists to develop and deploy solutions for various insurance and reinsurance business problems (i.e., business projects as well as ad-hoc analyses).
+Assess analytics scenarios by means of functional prototypes or pilot solutions.
+Ensure further development of Swiss Re's analytics capabilities in interplay with system engineers, solution architects and internal business experts. 
+
+About the team
+The Digital and Smart Analytics Service unit supports Swiss Re's business functions in generating insights and crafting data driven products from structured and unstructured data for their business and strategic initiatives. 
+We are an interdisciplinary global team of experts in machine learning, data & text mining and visual analytics. We provide end to end analytics services that deliver business value to our internal customers. 
+
+About You
+Master's or Ph.D. in a quantitative discipline: e.g., computer science, statistics, applied mathematics, physics, operational research, engineering.
+Strong analytical & conceptual skills to understand key business needs and design tailored solutions to solve specific business problems.
+Ability to communicate complex analysis results in a clear, precise and actionable manner.
+Proficiency in one or more of the following fields: information retrieval, natural language processing, and information visualisation.
+In-depth experience with statistical computing languages such as R, Matlab, etc.
+Familiarity in at least one programming language between Python and Java.
+Good knowledge in relational databases/SQL.
+Initial experiences with large data sets and the Hadoop ecosystem (Spark).
+Basic abilities in DevOps (Bash, Unix)
+Excellent verbal and written English skills, ideally multi-lingual.
+You are Great Teammate with a ‘can do’ attitude
+You enjoy working in an interdisciplinary and multi-cultural environment
+You possess a high degree of flexibility, independent and enthusiastic working style 
+
+Minimum base salary for this job from 1200 EUR gross/month/full time. Our offer to you may be higher based on your skills and experience and will include additional rewards and benefits. We are required by law to disclose basic wage component (minimum salary) for the advertised positions. We carefully consider your professional competencies, qualifications and experience in our compensation package and/or when offering you other positions. Our compensation philosophy is to pay fairly, also considering market situation and the value employees may bring to Swiss Re.

@@ -1,0 +1,36 @@
+Data scientist internship
+
+Competitve salary 
+
+Bratislava 
+
+Dell has been active in Slovakia since January 2003. We started as a centre of sales and customer support and transfer into a business centre supporting the whole EMEA region and the main financial hub of Dell, globally. We offer a broad palette of positions in IT, finance, sales, marketing, data science, technical support and business process support. 
+
+We are very honored and humbled to receive 3rd place in an annual 'best employer' survey conducted by Profesia amongst Shared Service Centers in Slovakia for the year 2018. Join our team and be part of life at Dell. 
+
+Are you keen to work in a dynamic Analytics environment where you can bring in your innovative ideas and work cross-functionally to develop first-class data driven analytics programs? 
+We are developing internship Program for passionate student to join our Data scientists and Data engineering team in Bratislava. 
+
+Dell provides end-to-end solutions that enable more affordable and accessible technology around the world, empowering people everywhere to do more. You will be part of a collaborative team that believes in honest communication, shares creativity and welcomes different perspectives. 
+
+Key responsibilitieis
+Pulling and structuring large data sets and applying advanced statistical methods
+Describing key variables impacting the business or process in order to drive decision-making or optimization
+Collect and transform unstructured data into actionableinsight in big dataenvironment (ETL, Machine learning , Hadoop )
+Establishing relationships with key business partners or Point of Contacts to improve added value for business
+Contribute to improve Process and reduce overall issues via algorithmic solution ( Python)
+Work in project to develop and support machine learning solution with advanced algorithms ( e.g.Clustering with Decision tree, NLP, NN)
+Essential requiremnts
+Education (Bachelors degree or higher) in Computer Science/IT, Applied Science, Math, Statistics or equivalent science field;
+Learning Data science algorithm ( Machine learning , Anova)
+Having Statistical and data modelling skills (Python, R )
+Willing to master Data transformation and database development ( ETL, SQL OLAP, Teradata)
+With Team work spirit and enable to be part of a global team, with remote leaders and peers
+Being self-reliant and capable of both independent work and as member of a team;
+Salary starting from : 6,60 eur gross/hourly 
+
+Benefits 
+
+Our people are the most critical component of our long-term success and their health and wellbeing are our priority. You will enjoy a comprehensive, locally competitive benefits package. 
+
+Dell is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex (including pregnancy), sexual orientation, gender identity and/or expression, national origin, protected veteran status, disability, genetics, or citizenship status (when otherwise legally authorized to work) and will not be discriminated against on the basis of such characteristics or any other status protected by the laws or regulations in the locations where we operate. Dell encourages applicants of all ages.
